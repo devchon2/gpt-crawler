@@ -10,6 +10,6 @@
     "skipLibCheck": true,
     "lib": ["DOM"],
     "strict": true,
-  },
+    "types": ["busboy","node"]  ,},
   "include": ["./src/**/*", "config.ts"]
 }
